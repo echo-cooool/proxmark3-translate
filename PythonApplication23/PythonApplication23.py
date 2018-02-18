@@ -79,7 +79,7 @@ class YouDaoFanyi:
 
 if __name__ == "__main__":
     appKey = '############'  # 应用id
-    appSecret = '##########################'  # 应用密钥
+    appSecret = '#########################'  # 应用密钥
     fanyi = YouDaoFanyi(appKey, appSecret)
     #while True:
      #   queryText = raw_input("请输入你好翻译的文字[Q|quit退出]: ").strip()
