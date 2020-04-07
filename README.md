@@ -1,4 +1,4 @@
-# proxmark3-
+# proxmark3-translate
 
 已汉化的程序是
 '''
